@@ -19,7 +19,7 @@
 /* Test Comment
 /* Use a CSS selector to change the color of <a> when you hover the cursor over it. */
 a:hover {
-    background-color: darkred;
+    color: darkred;
 }
 /* Create at least one class, apply it to at least two elements, and style it. */
 .green-text {
