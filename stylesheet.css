@@ -1,9 +1,11 @@
+/* Change at least two box model properties of any tag, class, or id. */
 .warning {
     border: 10px ridge #f00;
     background-color: #ff0;
     padding: .5rem;
     display: flex;
     flex-direction: column;
+    margin: 20px;
 }
 
 .warning img {
@@ -19,11 +21,28 @@
 a:hover {
     background-color: darkred;
 }
-
+/* Create at least one class, apply it to at least two elements, and style it. */
 .green-text {
     color: #050067;
+    font-family: cursive;
 }
 
 .font-24 {
     font-size: 24px;
 }
+
+
+#D1 {
+    font-size: 24px;
+    color: #005610;
+  }
+  #D2 {
+    font-size: 15px;
+    color: #4d4d55;
+  }
+  #D3 {
+    font-size: 10px;
+  }
+  #D4 {
+    font-size: 5px;
+  }
